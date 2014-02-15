@@ -10,4 +10,9 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)shareToFB:(id)sender;
+
+- (IBAction)shareToTwitter:(id)sender;
+- (IBAction)changImageSize:(id)sender;
+
 @end
